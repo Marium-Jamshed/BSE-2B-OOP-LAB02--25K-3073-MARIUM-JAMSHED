@@ -38,6 +38,6 @@ public class OOP4 {
         System.out.println("Sales tax: $5");
         System.out.println("Total amount to pay: $" + totalWithTax);
 
-        input.close();
+        
     }
 }
